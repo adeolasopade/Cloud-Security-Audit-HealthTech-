@@ -1,10 +1,10 @@
 # Cloud Security Audit – Chevy Health Tech Solutions (HealthTech)
 
-*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or properly licensed and are not proprietary to any organisation.*
+*This project reflects the type of work I support in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or properly licensed and are not proprietary to any organisation.*
 
 ---
 
-Led a cloud security [audit](https://drive.google.com/drive/folders/1F6qncYgKzWQNEucJqvQND_PzTDbfWHYb?usp=sharing) of a healthtech provider processing patient health information (PHI). The assessment evaluated security controls against the **Cloud Security Alliance Cloud Controls Matrix (CCM) v4.1.0** and **Nigeria Data Protection Act (NDP Act)** requirements to determine overall cloud security posture and regulatory readiness.
+Assisted on a cloud security [audit](https://drive.google.com/drive/folders/1F6qncYgKzWQNEucJqvQND_PzTDbfWHYb?usp=sharing) of a healthtech provider processing patient health information (PHI). The assessment evaluated security controls against the **Cloud Security Alliance Cloud Controls Matrix (CCM) v4.1.0** and **Nigeria Data Protection Act (NDP Act)** requirements to determine overall cloud security posture and regulatory readiness.
 
 ----
 
